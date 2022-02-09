@@ -133,4 +133,4 @@ async def dado(ctx, numero):
  variavel = random.randint(1,int(numero))
  await ctx.send(f'O número que saiu é:{variavel}')
 
-client.run('OTI2MjA3ODc0MDQzMDk3MTk5.Yc4UTQ.LZWoKCU4w8gwCTK4dqSl3tALH9k')
+client.run('')
